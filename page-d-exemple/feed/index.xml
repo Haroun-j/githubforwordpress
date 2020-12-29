@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments on: Page d’exemple	</title>
-	<atom:link href="https://harounwebsite.ga/page-d-exemple/feed/" rel="self" type="application/rss+xml" />
-	<link>https://harounwebsite.ga</link>
+	Commentaires sur : Page d’exemple	</title>
+	<atom:link href="http://www.harounwebsite.ga/page-d-exemple/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.harounwebsite.ga</link>
 	<description>Un site utilisant WordPress</description>
-	<lastBuildDate>Tue, 29 Dec 2020 14:32:18 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Dec 2020 17:24:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

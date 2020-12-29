@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments on: Bonjour tout le monde !	</title>
-	<atom:link href="https://harounwebsite.ga/2020/12/29/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
-	<link>https://harounwebsite.ga/2020/12/29/bonjour-tout-le-monde/</link>
+	Commentaires sur : Bonjour tout le monde !	</title>
+	<atom:link href="http://www.harounwebsite.ga/2020/12/29/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.harounwebsite.ga/2020/12/29/bonjour-tout-le-monde/</link>
 	<description>Un site utilisant WordPress</description>
-	<lastBuildDate>Tue, 29 Dec 2020 14:32:18 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Dec 2020 17:24:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,12 +19,12 @@
 	<generator>https://wordpress.org/?v=5.5.3</generator>
 	<item>
 		<title>
-		By: Un commentateur WordPress		</title>
-		<link>https://harounwebsite.ga/2020/12/29/bonjour-tout-le-monde/#comment-1</link>
+		Par : Un commentateur WordPress		</title>
+		<link>http://www.harounwebsite.ga/2020/12/29/bonjour-tout-le-monde/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentateur WordPress]]></dc:creator>
-		<pubDate>Tue, 29 Dec 2020 14:32:18 +0000</pubDate>
-		<guid isPermaLink="false">https://harounwebsite.ga/?p=1#comment-1</guid>
+		<pubDate>Tue, 29 Dec 2020 17:24:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.harounwebsite.ga/?p=1#comment-1</guid>
 
 					<description><![CDATA[Bonjour, ceci est un commentaire.
 Pour débuter avec la modération, la modification et la suppression de commentaires, veuillez visiter l’écran des Commentaires dans le Tableau de bord.
